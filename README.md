@@ -318,10 +318,6 @@ The following table lists the configuration values and default values provided f
 
 ---
 
-## License
-
-See the repository's license file for usage and redistribution terms.
-
 ## Feedback
 
 Bug reports, compatibility issues and improvement suggestions are welcome. When reporting an issue, include your AMX Mod X version, the game mode you are running and any relevant server logs.
